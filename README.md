@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--3xzKZbZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/cahilfoley/react-snowfall/blob/HEAD/assets/snowfall-demo-banner.gif%3Fraw%3Dtrue)](https://rishavchanda.io)
+[![MasterHead](https://www.onespottechnology.com/images/services/web-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pasindu Owa Gamage.</h1>
 <h3 align="center">A passionate frontend developer, app developer and robot builder from Sri Lanka.</h3>
 
