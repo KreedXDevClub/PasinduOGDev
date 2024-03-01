@@ -26,7 +26,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/pasinduogdev" target="blank"><img src="https://img.shields.io/twitter/follow/pasinduogdev?logo=twitter&style=for-the-badge" alt="pasinduogdev" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/pasinduogdev" target="blank"><img src="https://img.shields.io/twitter/follow/pasinduogdev?logo=twitter&style=for-the-badge" alt="pasinduogdev" /></a> </p> -->
 
 
 
@@ -40,7 +40,7 @@
 
 - 👨‍💻 **I am a beginner developer. 🌆**
 
-- ⚡ Fun fact **I think I'm funny comedian.**
+- ⚡ Fun fact: **I think I'm funny comedian.**
 
     
 <br><hr>
@@ -49,9 +49,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/pasinduogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasinduogdev" height="30" width="40" /></a>
-<a href="https://instagram.com/pasinduogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasinduogdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pasinduogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pasinduogdev" height="30" width="40" /></a>
+<a href="https://web.facebook.com/pasinduog.dev.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasinduogdev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pasinduog.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasinduogdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3LX5P8w5Jyjf9vHduBv4gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pasinduogdev" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/WH9MqWqbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WH9MqWqbQ" height="30" width="40" /></a>
 </p>   
 
