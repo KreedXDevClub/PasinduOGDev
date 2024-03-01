@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41"> -->
 
 
 
@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **Java, jQuery, SQL, PHP**
 
-<!-- - 👨‍💻 All of my projects are available at [geekhirusha.orgfree.com](geekhirusha.orgfree.com) -->
+<!-- - 👨‍💻 All of my projects are available at [pasinduog.orgfree.com](pasinduog.orgfree.com) -->
 
 - 💬 Ask me about **HTML, CSS, JS, Java, Python, PHP and Firebase.**
 
