@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVnMXF5bzM5OXdlc2c1ODB4MnNtempiOHQxaDhhMGx3bDg5aGs4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://philna.sh/posts/react_vid.mp4)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pasindu Owa Gamage.</h1>
 <h3 align="center">A passionate frontend developer, app developer and robot builder from Sri Lanka.</h3>
 
