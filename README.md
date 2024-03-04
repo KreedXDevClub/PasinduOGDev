@@ -4,24 +4,6 @@
 
 <br><br>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC3LX5P8w5Jyjf9vHduBv4gw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCeDaHDMjT12CxcItNSk_LSQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UC3LX5P8w5Jyjf9vHduBv4gw">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCeDaHDMjT12CxcItNSk_LSQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/pasinduogdev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pasinduogdev"/></a>
-  <a href="https://github.com/pasinduogdev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pasinduogdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    </br></br>
-  <a href="https://github.com/pasinduogdev/pasinduogdev">
-    <img src="https://komarev.com/ghpvc/?username=pasinduogdev&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
-  </a>
-  
-</p>
-
-<br><br>
-
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41"> -->
 
 
