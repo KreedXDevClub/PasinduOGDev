@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [pasinduog.orgfree.com](pasinduog.orgfree.com) -->
 
-- 💬 Ask me about **HTML, CSS, JS, Java, Python, PHP and Firebase.**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
