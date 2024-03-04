@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Meet Pasindu OG Dev</h1>
 <h2 align="center">Hello! 👋 I'm Pasindu Owa Gamage aka Pasindu Madhuwantha.</h2>
-<h3 align="center">A passionate frontend developer, app developer and robot builder from Sri Lanka.</h3>
+<h3 align="center">A passionate web developer, trainee SA developer and robot builder from Sri Lanka.</h3>
 
 <br><br>
 
