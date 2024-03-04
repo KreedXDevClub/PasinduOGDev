@@ -88,19 +88,6 @@
       width="40" height="40" />
   </a>
 </p>
-
-
-<hr>
-
-
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasinduogdev&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="pasinduogdev" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasinduogdev&show_icons=true&locale=en&theme=highcontrast" alt="pasinduogdev" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasinduogdev&theme=highcontrast" alt="pasinduogdev" />
-    
-<hr>
     
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
