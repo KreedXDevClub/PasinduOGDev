@@ -19,7 +19,7 @@
 
 - 👨‍💻 **I am a beginner developer. 🌆**
 
-- ⚡ Fun fact: **I think I'm funny comedian.**
+- ⚡ Fun fact: **Call me as OG.**
 
     
 <br><hr>
