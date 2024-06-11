@@ -45,7 +45,7 @@
 <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com/AshanLEO](https://buymeacoffee.com/ogpmadhuwar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/pasinduogdev) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ogpmadhuwar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/pasinduogdev) 
 
 <br><br>
 
