@@ -1,14 +1,9 @@
-<h1 align="center">👨‍💻 Meet Pasindu OG Dev 👨‍💻</h1>
-<h5 align="center">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
-<h5 align="center">"Member of KreedX Club"</h5>
-
-<br>
-
 # 💫 About Me:
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
+<h2 align="center">Meet Pasindu OG Dev</h2>
 <h3 align="center">Hello! 👋 I'm Pasindu Madhuwantha.</h3>
 
 <br>
