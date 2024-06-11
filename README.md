@@ -1,15 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Meet Pasindu OG Dev</h1>
-<h3 align="center">Hello! 👋 I'm Pasindu Owa Gamage aka Pasindu Madhuwantha.</h3>
-<h5 align="center">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
-<h5 align="center">"Member of KreedX Club"</h5>
+<h1 align="start">👨‍💻 Meet Pasindu OG Dev 👨‍💻</h1>
+<h3 align="start">Hello! 👋 I'm Pasindu Owa Gamage aka Pasindu Madhuwantha.</h3>
+<h5 align="start">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
+<h5 align="start">"Member of KreedX Club"</h5>
 
-<br><br>
+<br>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41"> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/pasinduogdev" target="blank"><img src="https://img.shields.io/twitter/follow/pasinduogdev?logo=twitter&style=for-the-badge" alt="pasinduogdev" /></a> </p> -->
-
+# 💫 About Me:
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **Java, jQuery, SQL, PHP**
 
 <!-- - 👨‍💻 All of my projects are available at [pasinduog.orgfree.com](pasinduog.orgfree.com) -->
@@ -22,6 +22,15 @@
 
 - ⚡ Fun fact: **Call me as OG.**
 
+</td>
+
+<td width="50%" align="center">
+  <img align="right" alt="coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%">
+</td>
+  
+</tr>
+
+</table>
     
 <br><hr>
 
