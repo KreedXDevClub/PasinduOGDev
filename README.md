@@ -30,7 +30,7 @@
 
 </table>
     
-<br><hr>
+<hr>
 
 # 💻 Tech Stack:
 ### Frontend Languages I Code in
@@ -46,15 +46,12 @@
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ogpmadhuwar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/pasinduogdev) 
 
-<br><br>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PasinduOGDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PasinduOGDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOGDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PasinduOGDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
