@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
-- 👨‍💻 **I am a beginner developer. 🌆**
+- 👨‍💻 **I am a Developer of KreedX Club. 🌆**
 
 - ⚡ Fun fact: **Call me as OG.**
 
