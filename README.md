@@ -1,7 +1,6 @@
-<h1 align="start">👨‍💻 Meet Pasindu OG Dev 👨‍💻</h1>
-<h3 align="start">Hello! 👋 I'm Pasindu Owa Gamage aka Pasindu Madhuwantha.</h3>
-<h5 align="start">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
-<h5 align="start">"Member of KreedX Club"</h5>
+<h1 align="center">👨‍💻 Meet Pasindu OG Dev 👨‍💻</h1>
+<h5 align="center">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
+<h5 align="center">"Member of KreedX Club"</h5>
 
 <br>
 
@@ -9,6 +8,10 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
+<h3 align="center">Hello! 👋 I'm Pasindu Madhuwantha.</h3>
+
+<br>
   
 - 🌱 I’m currently learning **Java, jQuery, SQL, PHP**
 
@@ -34,27 +37,27 @@
     
 <br><hr>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PasinduOGDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PasinduOGDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOGDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br><br>
-
 # 💻 Tech Stack:
-### Languages I Code In
+### Frontend Languages I Code in
  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
- ### Backend languages & Databases
+ ### Backend Languages & Databases
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img  height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" />
 
 ### Frameworks and Libraries &  IDEs
 <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ogpmadhuwar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/pasinduogdev) 
+
+<br><br>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PasinduOGDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PasinduOGDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOGDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br><br>
 
