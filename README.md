@@ -2,7 +2,7 @@
 <h1 align="center">Meet Pasindu OG Dev</h1>
 <h3 align="center">Hello! 👋 I'm Pasindu Owa Gamage aka Pasindu Madhuwantha.</h3>
 <h5 align="center">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
-<h5 align="center">Member of KreedX Club</h5>
+<h5 align="center">"Member of KreedX Club"</h5>
 
 <br><br>
 
