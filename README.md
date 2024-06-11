@@ -34,7 +34,11 @@
 
 # 💻 Tech Stack:
 ### Languages I Code In
- <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+ ### Backend languages & Databases
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 
 ### Frameworks and Libraries &  IDEs
 <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
