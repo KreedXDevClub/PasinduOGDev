@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Meet Pasindu OG Dev</h1>
 <h3 align="center">Hello! 👋 I'm Pasindu Owa Gamage aka Pasindu Madhuwantha.</h3>
-<h5 align="center">A passionate web developer, trainee SA developer and robot builder from Sri Lanka.</h5>
+<h5 align="center">A passionate Web Developer, Software Developer from Sri Lanka.</h5>
+<h5 align="center">Member of KreedX Club</h5>
 
 <br><br>
 
@@ -55,7 +56,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PasinduOGDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
